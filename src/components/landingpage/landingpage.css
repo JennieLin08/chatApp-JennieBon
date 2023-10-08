@@ -1,0 +1,13 @@
+.landingpage-container{
+    /* border: 1px solid rgb(236, 225, 225); */
+    border: 2px #4296db  solid;
+    display: flex;
+    border-radius: 10px;
+    padding: 20px;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+
+    box-shadow: 5px 5px 20px #4296db inset;
+}

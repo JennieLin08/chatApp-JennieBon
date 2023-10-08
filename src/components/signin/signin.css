@@ -1,0 +1,9 @@
+.signin-container{
+    border: 1px solid rgb(33, 32, 49);
+    display: inline-flex;
+    border-radius: 20px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+}
