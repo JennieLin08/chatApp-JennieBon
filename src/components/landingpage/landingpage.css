@@ -1,3 +1,15 @@
+.landingpage-body{
+    /* background-image: url("/src/assets/img/img.jpg");  */
+    background-image: url("/src/assets/img.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    color: black;
+    height: 600px;
+    padding: 50px;
+    /* background-color: pink; */
+}
+
 .landingpage-container{
     /* border: 1px solid rgb(236, 225, 225); */
     border: 2px #4296db  solid;
@@ -7,7 +19,8 @@
     justify-content: center;
     width: 400px;
     height: 200px;
+    margin-top: 80px !important;
     margin: 0 auto;
 
-    box-shadow: 5px 5px 20px #4296db inset;
+    /* box-shadow: 5px 5px 20px #4296db inset; */
 }

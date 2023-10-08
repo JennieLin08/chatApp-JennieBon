@@ -6,6 +6,7 @@ const Landingpage = () => {
 
   return (
 
+      <div className='landingpage-body'>
 
         <div className="landingpage-container">
         <div className='row'>
@@ -20,6 +21,7 @@ const Landingpage = () => {
           </div>
         </div>
         </div>
+      </div>
 
   )
 }
