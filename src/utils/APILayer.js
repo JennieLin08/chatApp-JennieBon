@@ -165,3 +165,15 @@ async function getUsers(userData) {
     const data = await response.json();
     return data;
 }
+
+export {
+    createUser,
+    loginUser,
+    sendMessage,
+    getMessages,
+    createChannel,
+    getChannels,
+    getChannelDetails,
+    addMember,
+    getUsers,}
+    
